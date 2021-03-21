@@ -21,5 +21,5 @@ The campaigns launched in December, January and October had the least number of 
 ### Outcomes Based on Goals
 More than 70% of Kickstarter Campaigns with goals that are at $5,000 and below were much more successful at reaching their goal; However based on the data for the goals between $20,000 to less than $45,000, there might be more factors in play for the success or failure of reaching the goal, specifically  in this range of amount, than just the amount of the goal itslef. The campaigns with goals 45,000 or greater had more difficulty reaching theeir goal. 
 
-### Limitations and Recommendations for adiitional tables or graphs
+### Limitations and Recommendations for Additional Tables or Graphs
 Since we knew what Louise's goal was, I think it would be interesting not just to take a look at the launch dates but to take a look at the the duration of the successful campaigns and to find out the relationship between the launch dates and the goals while only focusing on Louise’s goal or target of $12,000 (10000-14999). 
