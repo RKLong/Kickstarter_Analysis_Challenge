@@ -1,7 +1,7 @@
-#Overview of Project
+# Overview of Project
 Although Louise has already finished her campaign, she wants to find out how her campaign fared in comparison to the other theatre  campaigns. To be able to do this, the analyses created below which are outcomes based on goals and outcomes based on launch dates were made
 
-##Analysis and Challenges
+## Analysis and Challenges
 
 **Theatre Outcomes based on Launch Date**
 The table/chart shows us the different outcomes based on the months the theatre kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in october, where no kickstarter campaigns were canceled.
