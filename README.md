@@ -20,7 +20,7 @@ As for the Theatre Outcomes bansed on Launch Date chart/graph, the only challeng
 ## Results
 ### Theater Outcomes by Launch Date
 Based on the data provided, the months of May, June and July are months with the most successful campaigns launched, with May having the highest number of successful campaigns. 
-The campaigns launched in December, January and October had the most number of failed campaigns.
+The campaigns launched in December and October had the most number of failed campaigns.
 
 ### Outcomes Based on Goals
 More than 70% of Kickstarter Campaigns with goals that are at $5,000 and below were much more successful at reaching their goal and the campaigns with goals of 45,000 or greater had more difficulty reaching their goal. 
