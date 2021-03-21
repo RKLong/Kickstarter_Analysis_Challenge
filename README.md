@@ -3,7 +3,7 @@ Although Louise has already finished her campaign, she wants to find out how her
 
 ## Analysis and Challenges
 
-### Theatre Outcomes based on Launch Date
+### Theatre Outcomes Based on Launch Date
 The table/chart shows us the different outcomes based on the months the theatre Kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in october, where no kickstarter campaigns were canceled.
 
 ![Analysis of Outcome](Resources/Theater_Outcomes_vs_Launch.png)
@@ -14,8 +14,8 @@ Except for the first(below $1000) and last amount ($5,000 or greater), the goals
 ![Analysis of Outcome](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges
-The challenge for me was in creating the table and chart for Theatre Outcomes by Launch Date. I would not say that it was lack of instruction, but it was more of me being in a hurry to get it done. It was a good thing the hints were posted and i was able to compare my work, backtrack and see where i might have made a mistake. In terms of making the graph/chart for it, the part I had to figure out was putting the % sign on the values on the y-axis, but I was able to figure it out once i changed the format of the dta on the column.
-As for the Theatre Outcomes bansed on Launch Date chart/graph, the only challenge i had was changing or customizing the lines on the graph. Initially, i wanted them to match the colors assigned on the Kickstarter table, but I figured it would be safer to have the same format as the one shown on the module.
+The challenge for me was in creating the table and chart for Theatre Outcomes by Launch Date. I would not say that it was lack of instruction, but it was more of me being in a hurry to get it done. It was a good thing the hints were posted and I was able to compare my work, backtrack and see where I might have made a mistake. In terms of making the graph/chart for it, the part I had to figure out was putting the % sign on the values on the y-axis, but I was able to figure it out once i changed the format of the dta on the column.
+As for the Theatre Outcomes bansed on Launch Date chart/graph, the only challenge i had was changing or customizing the lines on the graph. Initially, I wanted them to match the colors assigned on the Kickstarter table, but I figured it would be safer to have the same format as the one shown on the module.
 
 ## Results
 ### Theater Outcomes by Launch Date
