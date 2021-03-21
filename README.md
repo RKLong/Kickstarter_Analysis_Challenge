@@ -6,10 +6,12 @@ Although Louise has already finished her campaign, she wants to find out how her
 ### Theatre Outcomes based on Launch Date
 The table/chart shows us the different outcomes based on the months the theatre kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in october, where no kickstarter campaigns were canceled.
 
-![Analysis of Outcome](Resources/Outcomes_vs_Goals.png)
+![Analysis of Outcome](Resources/)
 
 ### Outcomes Based on Goals
 Except for the first(below $1000) and last amount ($5,000 or greater), the goals are broken down in $5000 increments and instead of graphing the number of individual outcomes we used the the percentages for each of the outcomes. The graph only shows the percaentages of successful and failed campaigns, as there are no cancelled campaigns in the data provided.
+
+![Analysis of Outcome](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges
 The challenge for me was in creating the table and chart for Theatre Outcomes by Launch Date. I would not say that it was lack of instruction, but it was more of me being in a hurry to get it done. It was a good thing the hints were posted and i was able to compare my work, backtrack and see where i might have made a mistake. In terms of making the graph/chart for it, the part I had to figure out was putting the % sign on the values on the y-axis, but I was able to figure it out once i changed the format of the dta on the column.
