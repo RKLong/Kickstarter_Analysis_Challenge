@@ -4,7 +4,7 @@ Although Louise has already finished her campaign, she wants to find out how her
 ## Analysis and Challenges
 
 ### Theatre Outcomes based on Launch Date
-The table/chart shows us the different outcomes based on the months the theatre kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in october, where no kickstarter campaigns were canceled.
+The table/chart shows us the different outcomes based on the months the theatre Kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in october, where no kickstarter campaigns were canceled.
 
 ![Analysis of Outcome](Resources/Theater_Outcomes_vs_Launch.png)
 
@@ -23,7 +23,8 @@ Based on the data provided, the months of May, June and July are months with the
 The campaigns launched in December, January and October had the least number of successful campaigns.
 
 ### Outcomes Based on Goals
-More than 70% of Kickstarter Campaigns with goals that are at $5,000 and below were much more successful at reaching their goal; However based on the data for the goals between $20,000 to less than $45,000, there might be more factors in play for the success or failure of reaching the goal, specifically  in this range of amount, than just the amount of the goal itslef. The campaigns with goals 45,000 or greater had more difficulty reaching theeir goal. 
+More than 70% of Kickstarter Campaigns with goals that are at $5,000 and below were much more successful at reaching their goal and the campaigns with goals of 45,000 or greater had more difficulty reaching their goal. 
+Based on the data for the goals between $20,000 to less than $45,000, there might be more factors in play for the success or failure of reaching the goal, specifically in this range of amount, than just the amount of the goal itslef. 
 
 ### Limitations and Recommendations for Additional Tables or Graphs
 Since we knew what Louise's goal was, I think it would be interesting not just to take a look at the launch dates but to take a look at the the duration of the successful campaigns and to find out the relationship between the launch dates and the goals while only focusing on Louise’s goal or target of $12,000 (10000-14999). 
