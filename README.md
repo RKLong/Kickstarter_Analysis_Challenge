@@ -4,7 +4,7 @@ Although Louise has already finished her campaign, she wants to find out how her
 ## Analysis and Challenges
 
 ### Theatre Outcomes Based on Launch Date
-The table/chart shows us the different outcomes based on the months the theatre Kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in october, where no kickstarter campaigns were canceled.
+The table/chart shows us the different outcomes based on the months the theatre Kickstarter campaigns were launched. For the canceled theatre campaigns, its line graph is not continuous as there is a break in October, where no kickstarter campaigns were canceled.
 
 ![Analysis of Outcome](Resources/Theater_Outcomes_vs_Launch.png)
 
