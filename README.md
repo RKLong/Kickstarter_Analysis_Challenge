@@ -14,9 +14,10 @@ Except for the first(below $1000) and last amounts ($50,000 or greater), the goa
 ![Analysis of Outcome](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges
-The challenge for me was in creating the table and chart for Theatre Outcomes by Launch Date. I would not say that it was lack of instruction, but it was more of me being in a hurry to get it done. It was a good thing the hints were posted and I was able to compare my work, backtrack and see where I might have made a mistake. In terms of making the graph/chart for it, the part I had to figure out was putting the % sign on the values on the y-axis, but I was able to figure it out once i changed the format of the data on the corresponding columns.
 
-As for the Theatre Outcomes bansed on Launch Date chart/graph, the only challenge i had was changing or customizing the lines on the graph. Initially, I wanted them to match the colors assigned on the Kickstarter table, but I figured it would be safer to have the same format as the one shown on the module.
+Creating the table and chart for Theatre Outcomes by Launch Date was a bit challenging for me, becasue I was not familiar with most of the capabilities/functions of the different tabs in Excel. It was a good thing the hints were posted and I was able to compare my work, backtrack and see where I might have made errors. I had to figure where to put the % sign on the values on the y-axis, once i changed the format of the data on the corresponding columns, I was able to do it.
+
+As for the Theatre Outcomes baned on Launch Date chart/graph, the only challenge i had was changing or customizing the lines on the graph. Initially, I wanted them to match the colors assigned on the Kickstarter table, but I figured it would be safer to have the same format as the one shown on the module, as no specific instructionw sere given
 
 ## Results
 ### Theater Outcomes by Launch Date
